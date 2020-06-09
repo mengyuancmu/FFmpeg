@@ -35,5 +35,6 @@
 /avversion.h
 /lcov/
 /src
+.idea
 /mapfile
 /tools/python/__pycache__/
